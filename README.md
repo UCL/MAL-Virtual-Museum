@@ -14,4 +14,9 @@ Test by Wangyiming！！！！！！！！！！！！！！！！！！！！
 Yiming‘s branch
 
 another test from Dan
+<<<<<<< HEAD
 >>>>>>> 44b3854a727d5a28677565660bcf84969fcbcda9
+=======
+
+Want more tests?
+>>>>>>> 782a8b982b3c34a4232a95cb8416ced0f11bf057
